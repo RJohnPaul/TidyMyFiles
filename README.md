@@ -1,5 +1,3 @@
-Certainly! Below is the modified README with the project name changed to "TidyMyFiles":
-
 ---
 
 # TidyMyFiles
@@ -68,5 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [tqdm](https://github.com/tqdm/tqdm): A fast, extensible progress bar for Python.
 
 ---
-
-Feel free to customize the README further based on your project's specific details and requirements. Replace "your-username" with your GitHub username in the clone URL.
