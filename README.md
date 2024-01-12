@@ -11,7 +11,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Web_Scrapper_Py/blob/4712f33c2d8e06508577dc150a4749bc01362de2/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/TidyMyFiles/blob/265256648b8eb0bb27be037cbbae7432d7dcf304/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 </br>
