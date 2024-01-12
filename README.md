@@ -11,7 +11,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/TidyMyFiles/blob/265256648b8eb0bb27be037cbbae7432d7dcf304/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/TidyMyFiles/blob/c26dc4ebbf98f1e303ff42a40f4188a0513c3727/Frame-5(4).png" alt="Project Banner">
   </br>
 </div>
 </br>
