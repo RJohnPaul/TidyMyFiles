@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Web_Scrapper_Py/blob/4712f33c2d8e06508577dc150a4749bc01362de2/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/TidyMyFiles/blob/6f0cfb786ec8a29a589bffd9c12a3dfe52f6290b/Frame%2021.png" alt="Project Banner">
   </br>
 </div>
 </br>
